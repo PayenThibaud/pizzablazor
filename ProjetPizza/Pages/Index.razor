@@ -1,0 +1,46 @@
+﻿@page "/"
+
+<PageTitle>Accueil</PageTitle>
+
+<style>
+    body {
+        background-color: #5d478b; /* Violet foncé */
+        color: #ffffff; /* Blanc */
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    .container {
+        max-width: 800px;
+        margin: auto;
+        text-align: center;
+    }
+
+    h1 {
+        color: #ff6347; /* Rouge orangé */
+        font-size: 3rem;
+        margin-bottom: 20px;
+    }
+
+    .welcome-text {
+        font-size: 1.2rem;
+        margin-bottom: 40px;
+    }
+
+    .pizza-link {
+        color: #ff6347; /* Rouge orangé */
+        text-decoration: none;
+        font-size: 1.5rem;
+        border-bottom: 2px solid #ff6347; /* Bordure rouge orangé */
+        transition: border-bottom 0.3s ease;
+    }
+
+        .pizza-link:hover {
+            border-bottom: 2px solid #ffffff; /* Bordure blanche au survol */
+        }
+</style>
+
+<div class="container">
+    <h1>Bienvenue sur notre site de pizzas</h1>
+    <p class="welcome-text">Découvrez notre délicieuse sélection de pizzas artisanales.</p>
+    <a href="/pizzas" class="pizza-link">Découvrir nos pizzas</a>
+</div>
