@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\10 - TP Global Pizza\\Pizza\\PizzaProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28419C3A-152B-4084-87B3-5F0E4B965106}|PizzBlazor\\PizzBlazor.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\10 - tp global pizza\\pizza\\pizzaproject\\pizzblazor\\pages\\pizzapage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28419C3A-152B-4084-87B3-5F0E4B965106}|PizzBlazor\\PizzBlazor.csproj|solutionrelative:pizzblazor\\pages\\pizzapage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28419C3A-152B-4084-87B3-5F0E4B965106}|PizzBlazor\\PizzBlazor.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\10 - tp global pizza\\pizza\\pizzaproject\\pizzblazor\\services\\apipizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28419C3A-152B-4084-87B3-5F0E4B965106}|PizzBlazor\\PizzBlazor.csproj|solutionrelative:pizzblazor\\services\\apipizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28419C3A-152B-4084-87B3-5F0E4B965106}|PizzBlazor\\PizzBlazor.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\10 - tp global pizza\\pizza\\pizzaproject\\pizzblazor\\services\\fakedbpizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28419C3A-152B-4084-87B3-5F0E4B965106}|PizzBlazor\\PizzBlazor.csproj|solutionrelative:pizzblazor\\services\\fakedbpizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28419C3A-152B-4084-87B3-5F0E4B965106}|PizzBlazor\\PizzBlazor.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\10 - tp global pizza\\pizza\\pizzaproject\\pizzblazor\\pages\\pizzapage.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28419C3A-152B-4084-87B3-5F0E4B965106}|PizzBlazor\\PizzBlazor.csproj|solutionrelative:pizzblazor\\pages\\pizzapage.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC850B9-F04B-4B60-9B7D-7145E27E11F0}|PizzAPI\\PizzAPI.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\10 - tp global pizza\\pizza\\pizzaproject\\pizzapi\\controllers\\pizzascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC850B9-F04B-4B60-9B7D-7145E27E11F0}|PizzAPI\\PizzAPI.csproj|solutionrelative:pizzapi\\controllers\\pizzascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC850B9-F04B-4B60-9B7D-7145E27E11F0}|PizzAPI\\PizzAPI.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\10 - tp global pizza\\pizza\\pizzaproject\\pizzapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC850B9-F04B-4B60-9B7D-7145E27E11F0}|PizzAPI\\PizzAPI.csproj|solutionrelative:pizzapi\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC850B9-F04B-4B60-9B7D-7145E27E11F0}|PizzAPI\\PizzAPI.csproj|c:\\users\\thibaud payen\\desktop\\m2i formation\\dot_net_19_12\\10 - tp global pizza\\pizza\\pizzaproject\\pizzapi\\pizzapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BBC850B9-F04B-4B60-9B7D-7145E27E11F0}|PizzAPI\\PizzAPI.csproj|solutionrelative:pizzapi\\pizzapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FakeDBPizzaService.cs",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\10 - TP Global Pizza\\Pizza\\PizzaProject\\PizzBlazor\\Services\\FakeDBPizzaService.cs",
+              "RelativeDocumentMoniker": "PizzBlazor\\Services\\FakeDBPizzaService.cs",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\10 - TP Global Pizza\\Pizza\\PizzaProject\\PizzBlazor\\Services\\FakeDBPizzaService.cs",
+              "RelativeToolTip": "PizzBlazor\\Services\\FakeDBPizzaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T14:12:31.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PizzaPage.razor.cs",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\10 - TP Global Pizza\\Pizza\\PizzaProject\\PizzBlazor\\Pages\\PizzaPage.razor.cs",
+              "RelativeDocumentMoniker": "PizzBlazor\\Pages\\PizzaPage.razor.cs",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\10 - TP Global Pizza\\Pizza\\PizzaProject\\PizzBlazor\\Pages\\PizzaPage.razor.cs",
+              "RelativeToolTip": "PizzBlazor\\Pages\\PizzaPage.razor.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAiwEYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T14:12:02.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PizzaPage.razor",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\10 - TP Global Pizza\\Pizza\\PizzaProject\\PizzBlazor\\Pages\\PizzaPage.razor",
+              "RelativeDocumentMoniker": "PizzBlazor\\Pages\\PizzaPage.razor",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\10 - TP Global Pizza\\Pizza\\PizzaProject\\PizzBlazor\\Pages\\PizzaPage.razor",
+              "RelativeToolTip": "PizzBlazor\\Pages\\PizzaPage.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-04T14:11:53.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "APIPizzaService.cs",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\10 - TP Global Pizza\\Pizza\\PizzaProject\\PizzBlazor\\Services\\APIPizzaService.cs",
+              "RelativeDocumentMoniker": "PizzBlazor\\Services\\APIPizzaService.cs",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\10 - TP Global Pizza\\Pizza\\PizzaProject\\PizzBlazor\\Services\\APIPizzaService.cs",
+              "RelativeToolTip": "PizzBlazor\\Services\\APIPizzaService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T14:11:32.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PizzasController.cs",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\10 - TP Global Pizza\\Pizza\\PizzaProject\\PizzAPI\\Controllers\\PizzasController.cs",
+              "RelativeDocumentMoniker": "PizzAPI\\Controllers\\PizzasController.cs",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\10 - TP Global Pizza\\Pizza\\PizzaProject\\PizzAPI\\Controllers\\PizzasController.cs",
+              "RelativeToolTip": "PizzAPI\\Controllers\\PizzasController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvzoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T09:11:08.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\10 - TP Global Pizza\\Pizza\\PizzaProject\\PizzAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "PizzAPI\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\10 - TP Global Pizza\\Pizza\\PizzaProject\\PizzAPI\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "PizzAPI\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T09:11:07.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PizzAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\10 - TP Global Pizza\\Pizza\\PizzaProject\\PizzAPI\\PizzAPI.csproj",
+              "RelativeDocumentMoniker": "PizzAPI\\PizzAPI.csproj",
+              "ToolTip": "C:\\Users\\Thibaud Payen\\Desktop\\M2I formation\\dot_net_19_12\\10 - TP Global Pizza\\Pizza\\PizzaProject\\PizzAPI\\PizzAPI.csproj",
+              "RelativeToolTip": "PizzAPI\\PizzAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-01T11:22:55.746Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
